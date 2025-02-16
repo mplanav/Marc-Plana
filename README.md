@@ -5,4 +5,4 @@
 ---
 
 ## Connect with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-usuario)
+![145807](https://github.com/user-attachments/assets/adcce794-cbf4-4ab4-97eb-b30a96147a1f)
