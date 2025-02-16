@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marc Plana
 
-## I'm currently studying Computer Science in UPC ![images](https://github.com/user-attachments/assets/f52cf6ca-9371-4c7a-8da1-13c79df608b9)
+## I'm currently studying Computer Science in UPC
 
 - How to reach me on Linkedin - Marc Plana Villalbi
 ---
