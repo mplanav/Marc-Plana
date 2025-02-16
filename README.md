@@ -1,7 +1,7 @@
 # Hi 👋, I'm Marc Plana
 
 ## I'm currently studying Computer Science in UPC
-
+- How to reach me on Linkedin - Marc Plana Villalbi
 ---
 
 ## Connect with me:
@@ -23,7 +23,10 @@
   <img src="https://github.com/user-attachments/assets/59d8b144-6cf0-4c5c-b0a2-d018f31d61fe" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/1727eb13-3b0b-47f5-96b1-072ac6d48f70" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/65a56488-022c-4782-b3a3-3aa203081f8b" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/504206f0-6712-43be-a297-5f2c483339fd" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/a14e73bc-d088-449c-8f15-f31c749a6ac7" width="40" height="40"/>
 </a>
+
 
 
 
