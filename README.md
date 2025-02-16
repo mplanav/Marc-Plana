@@ -1,4 +1,4 @@
-![c-original](https://github.com/user-attachments/assets/7aa1721d-c85b-42b3-abde-13791379ea5e)# Hi 👋, I'm Marc Plana
+# Hi 👋, I'm Marc Plana
 
 ## I'm currently studying Computer Science in UPC
 
